@@ -188,6 +188,55 @@ h5 {
 
 /* Adjust the layout for different screen sizes */
 @media (max-width: 576px) {
+  .navbar-logo {
+    height: 70px;
+    width: 70px;
+  }
+
+  .hero-card {
+    margin-top: 20px;
+    padding: 22px 16px;
+  }
+
+  .hero-eyebrow {
+    font-size: 0.72rem;
+    letter-spacing: 0.18rem;
+  }
+
+  .card-title {
+    font-size: clamp(2rem, 8vw, 3rem);
+    line-height: 1.1;
+  }
+
+  .card-subtitle {
+    font-size: 1.2rem;
+  }
+
+  .hero-copy {
+    font-size: 1rem;
+  }
+
+  .button-group {
+    gap: 10px;
+  }
+
+  .btn-circle.btn-xl {
+    width: 78px;
+    height: 78px;
+    font-size: 10px;
+    padding-top: 24px;
+  }
+
+  .cta-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero-primary,
+  .hero-secondary {
+    width: 100%;
+  }
+
   .divider {
     display: none;
   }

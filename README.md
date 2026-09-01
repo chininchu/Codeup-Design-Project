@@ -2,6 +2,8 @@
 
 A responsive static marketing site for a creative design studio. The project presents a visual brand identity, service offerings, portfolio highlights, and a call-to-action for prospective clients.
 
+**[View the live site](https://chininchu.github.io/Codeup-Design-Project/)**
+
 ## Overview
 
 This project focuses on front-end structure and visual design. It includes:
